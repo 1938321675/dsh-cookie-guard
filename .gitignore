@@ -1,0 +1,12 @@
+# 本地/临时产物
+*.bak-*
+*.tmp
+*.log
+node_modules/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# 操作系统
+.DS_Store
